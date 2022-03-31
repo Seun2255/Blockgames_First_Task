@@ -1,3 +1,7 @@
+Live Demo: http://steep-girl.surge.sh/
+
+contract: https://rinkeby.etherscan.io/address/0x450f3888839075A5323176Dcd5a7EebaCcc658a2#code
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
