@@ -1,3 +1,8 @@
+Live-demo: http://puffy-vein.surge.sh/
+
+contract: https://rinkeby.etherscan.io/address/0x0A1cA1f79D9CC0984deB7d5520C5b539D65cEc90#code
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
