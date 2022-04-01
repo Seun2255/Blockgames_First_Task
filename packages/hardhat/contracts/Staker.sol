@@ -56,7 +56,9 @@ contract Staker {
 
     // Add a `withdraw()` function to let users withdraw their balance
     function withdraw() public payable notCompleted {
+        require(openForWithdraw, "It's not yet time");
         (bool sent, ) = msg.sender.call{value: balances[msg.sender]}("");
+        balances[msg.sender] = 0;
         require(sent, "Failed to send Ether");
     }
 
